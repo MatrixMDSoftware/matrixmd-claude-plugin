@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "matrixmd",
+  "displayName": "MatrixMD",
+  "version": "1.0.0",
+  "description": "Manage authorized MatrixMD clinic catalogs and inventory through a privacy-limited remote MCP connector and safe operations skill.",
+  "author": {
+    "name": "Pah Venture S.A.S.",
+    "email": "matrixmd@pahventure.com",
+    "url": "https://matrixmdsoftware.com"
+  },
+  "homepage": "https://matrixmdsoftware.com/claude/",
+  "repository": "https://github.com/MatrixMDSoftware/matrixmd-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "matrixmd",
+    "clinic-operations",
+    "inventory",
+    "catalogs",
+    "healthcare"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

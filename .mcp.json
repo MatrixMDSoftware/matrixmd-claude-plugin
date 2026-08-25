@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "matrixmd": {
+      "type": "http",
+      "url": "https://mcp.matrixmdsoftware.com/mcp/plugin"
+    }
+  }
+}
